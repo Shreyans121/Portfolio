@@ -1,0 +1,52 @@
+.topnav{
+    overflow:hidden;
+}
+
+.topnav a {
+    float:left;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-stretch: 20px;
+    font-size: 14px;
+    font-family:sans-serif;
+}
+
+.topnav a:hover{
+    color: #b08d57;
+}
+
+.topnav a.active{
+    color: bisque;
+}
+
+
+
+.block a:hover{
+    color: black;
+    background-color: #b08d57;
+}
+
+.contact{
+    overflow:hidden;
+}
+
+.contact a {
+    color: white;
+    text-align: center;
+    padding: 220px 16px;
+    text-decoration: none;
+    font-stretch: 20px;
+    font-size: 14px;
+    font-family:sans-serif;
+}
+
+.contact a:hover{
+    color: black;
+    background-color: #b08d57;
+}
+
+.contact a.active{
+    color: bisque;
+}
